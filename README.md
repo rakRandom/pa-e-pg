@@ -1,1 +1,1 @@
-# pa-e-pg
+# Programa que cálcula Progressão Aritmética e Progressão Geométrica
